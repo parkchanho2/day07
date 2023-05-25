@@ -64,8 +64,9 @@ public class Quiz02 {
 				}break;
 			case 5:
 				System.out.println("종료");
+				return;
 				
-			}break;
+			}
 		}
 		
 	}
